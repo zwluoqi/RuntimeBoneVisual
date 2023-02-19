@@ -1,5 +1,6 @@
 # RuntimeBoneVisual
- Runtime Visualize your character's bones.运行时骨骼可视化
+ Runtime Visualize your character's bones.
+ 运行时骨骼可视化
 
 ![效果](https://workbooko1.oss-cn-hangzhou.aliyuncs.com/uPic/Snipaste_2022-11-27_13-22-04.png)
 
